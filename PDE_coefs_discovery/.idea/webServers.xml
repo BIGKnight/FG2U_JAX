@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="26d2e272-85bd-4735-b554-dc3af3622a1e" name="zlab-8v">
+        <fileTransfer accessType="SFTP" host="115.27.161.97" port="22" sshConfigId="d3aaf3ab-92ab-4097-b724-e4f1c2cf5d82" sshConfig="sql@115.27.161.97:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
